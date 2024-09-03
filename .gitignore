@@ -11,3 +11,6 @@ generated_cv*
 .vscode
 chrome_profile
 answers.json
+/ai_hawk
+/data_folder_example
+/data_folder_example/secrets.yaml
